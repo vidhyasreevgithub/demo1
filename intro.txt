@@ -1,0 +1,1 @@
+GitHub is a cloud-based hosting platform that stores your Git repositories online, adding tools for teamwork, reviews, and project management
